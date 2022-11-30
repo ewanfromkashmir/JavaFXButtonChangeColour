@@ -11,7 +11,7 @@
     </padding>
 
     <Label fx:id="welcomeText" />
-    <Button id="btnHello" onAction="#onHelloButtonClick" text="Don't press me!" textFill="#fc0303" />
+    <Button id="btnHello" onAction="#onHelloButtonClick" text="Help" textFill="#fc0303" />
     <Button id="btnMutton" onAction="#circleChangeColor" text="Mutton Button" textFill="#fc0303" />
    <Circle fx:id="circle" fill="DODGERBLUE" radius="100.0" stroke="BLACK" strokeType="INSIDE" />
 </VBox>
